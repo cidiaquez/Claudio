@@ -1,0 +1,37 @@
+# Claudio
+presentacion de evaluacion primera parte
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scadable=no">
+    <title>Experiencia</title>
+  </head>
+  <body>
+    <header>
+      <img src="imagenes/logo.png" alt="logo_diseñador" title="logo_diseñador" width="250pxs">
+    </header>
+    <h1>Resumen Curricular</h1>
+    <h2>Datos Personales</h2>
+    <h3>Nombre Completo</h3>
+    <p>Claudio Marcel Idiaquez Gonzalez</p>
+    <h3>Lugar y Fecha de Nacimiento</h3>
+    <p>Esteli, Nicaragua 07 de Febrero de 1981</p>
+    <h3>Estado civil</h3>
+    <p>Soltero</p>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="educacion.html">Educacion</a></li>
+      <li><a href="experiencia.html">Experiencia</a></li>
+    </ul>
+    <h2>Experiencia</h2>
+    <h3>video de Claudio</h3>
+    <video src="videos/videoclaudio2.mp4" autoplay poster="videoclaudio2.mp4" width="500px" height="250px" controls> Explorador no soporta el contenido
+    </video>
+    <h3>Hobbys de Claudio</h3>
+    <audio src="audio/audioclaudio.m4a" controls>
+
+    </audio>
+    <footer>email:c_idiaquez@hotmail.com, Cel: 00504-99431634</footer>
+  </body>
+</html>
